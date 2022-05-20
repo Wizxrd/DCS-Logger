@@ -1,0 +1,6 @@
+2022-05-11 19:13:51 ALERT	test.lua: this is a alert message
+2022-05-11 19:13:51 ERROR	test.lua: this is a error message
+2022-05-11 19:13:51 WARNING	test.lua: this is a warning message
+2022-05-11 19:13:51 INFO	test.lua: this is a info message
+2022-05-11 19:13:51 DEBUG	test.lua: this is a debug message
+2022-05-11 19:13:51 TRACE	test.lua: this is a trace message
