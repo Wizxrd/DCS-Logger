@@ -11,7 +11,7 @@ The documentation for available methods can be found in the [wiki](https://githu
 
 ## **Installation**
 ### **Download**
-download the latest **logger** version from the current [release]().
+download the latest **logger** version from the current [release](https://github.com/Wizxrd/DCSLogger/releases).
 
 ##  **DCS Setup**
 ### **Sanitize MissionScripting.lua**
