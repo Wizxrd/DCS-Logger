@@ -43,13 +43,13 @@ dofile("C:/PathToYourLogger/logger.lua")
 
 ## **FAQS**
 **Q:** Why not just use `env` or `log` to write to dcs.log?  
-**A:** Want to stop commenting out or removing bits of logging information? Look no further, logger provides an easy way of defining a  
-log level so logging methods only execute at the defined level and below.
+**A:** Want to stop commenting out or removing bits of logging information? Look no further, logger provides an easy way of defining a log level so logging methods only  
+execute at the defined level and below.
 
 **Q:** Why would i want to log to another file besides dcs.log?  
-**A:** In larger scripts and missions this can be quite useful as you can dedicate log files to specific scripts. This can alieve some  
-headaches when searching through thousands of lines of debug information when all you're looking for is a stack traceback.
+**A:** In larger scripts and missions this can be quite useful as you can dedicate log files to specific scripts. This can aleve some headaches when searching through  
+thousands of lines of debug information when all you're looking for is a stack traceback.
 
 **Q:** Is writing to a custom log file slower than writing to dcs.log?  
-**A:** Yes, this requires the use of `io` to write to the file causing some notible difference in performance. Writing to dcs.log on  
-average took about `0.005` seconds while writing to a custom log file took on average about `0.030` seconds.
+**A:** Yes, this requires the use of `io` to write to the file causing some notible difference in performance. Writing to dcs.log on average took about `0.005` seconds  
+while writing to a custom log file took on average about `0.030` seconds.
